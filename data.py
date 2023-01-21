@@ -5,7 +5,7 @@ from random import randint
 
 @dataclass
 class BotData:
-    TOKEN: str = "5909871039:AAFT2A8qYmStTq-Qg_gRTM9WA7dI8FXXZDw"
+    TOKEN: str = "YOUR_BOT_TOKEN"
     ADMIN: str = None
     ADMIN_KEY: str = ""
     for num in range(40):
